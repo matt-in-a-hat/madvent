@@ -37,6 +37,22 @@ h1, h3 {
   margin: 20px;
   background-image: url('doors.png');
   background-repeat: no-repeat;
+  text-align: center;
+}
+
+.number {
+  font-size: 15px;
+  font-weight: bold;
+  color: #222;
+  line-height: 2;
+  background-color: rgba(255, 255, 255, 0.6);
+  border-radius: 10px;
+  padding: 0 4px;
+  transition: 0.2s ease-in-out;
+}
+li:hover .number {
+  background-color: rgba(255, 255, 255, 0);
+  color: #FFF;
 }
 
 .door-1 {

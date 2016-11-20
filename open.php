@@ -14,10 +14,17 @@ $messages = array(
   'I love the way you love lame things I make... like this ;)',
 );
 
+// IDEAS
+//
+// Ukulele
+// Poems
+// Cat pic
+// Reflect on a memory (with pic?)
+
 if (isset($_GET['door'])) {
   $now = new DateTime('now', new DateTimeZone('Europe/Oslo'));
   $doorDate = new DateTime('2016-12-' . $_GET['door'] . ' 00:00:00', new DateTimeZone('Europe/Oslo'));
-  if ($doorDate > $now && isset($messages[$_GET['door']])) {
+  if ($doorDate < $now && isset($messages[$_GET['door']])) {
     respond($messages[$_GET['door']]);
   }
 }

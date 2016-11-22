@@ -1,3 +1,5 @@
+# Madvent Calendar
+
 A little gift I made for Maddy
 
 
@@ -8,3 +10,4 @@ TODO:
 - Add door content
 - Save opened doors? Or just show the doors allowed to open as opened?
 - Add nicer display than alert
+- Animate door opening?

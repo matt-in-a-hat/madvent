@@ -10,8 +10,11 @@ function respond($message, $status=200) {
 }
 
 $messages = array(
-  'A cat dies due to your curiosity',
+  'A cat dies due to your curiosity.',
   'I love the way you love lame things I make... like this ;)',
+  'You have such a pretty smile, I love it.',
+  'I love that you like a challenge.',
+  'I love your passion for food and cooking, and the yummies you create me.',
 );
 
 // IDEAS

@@ -7,7 +7,7 @@ $(document).on('ready', function () {
   $('.door-list li').on('click', function () {
     $.get('open.php?door=' + $(this).data('door')).done(function (response) {
       if (response) {
-        $.fancybox(response)
+        $.fancybox($('<div>').html(response))
       } else {
         $.fancybox(locked)
       }

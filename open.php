@@ -16,13 +16,15 @@ $messages = array(
   'I love that you like a challenge.',
   'I love your passion for food and cooking, and the yummies you create me.',
   'Flambo is red, Ice king is blue, Marcy is cute, but not cuter than you.',
+  '<p>I love that we want to travel the world together.</p><a href="https://www.facebook.com/photo.php?fbid=1459148847444563&set=a.554924301200360.150033.100000483843161&type=3&theater"><img src="https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/13428011_1459148847444563_2827824956562572338_n.jpg?oh=569ff755893560b68ddd75cb4ab49558&oe=58C7870F" /><br>(see original)</a>',
+  '<p>I love how you get along with my weird family.</p><a href="https://www.facebook.com/photo.php?fbid=10205272671847099&set=a.10205114948384111.1073741900.1556160189&type=3&theater"><img src="https://scontent-arn2-1.xx.fbcdn.net/t31.0-8/10926339_10205272671847099_3339682693110442607_o.jpg" /><br>(see original)</a>',
 );
 
 // IDEAS
 //
 // Ukulele
 // Poems
-// Cat pic
+// Cat pic (share love of fluffy things?)
 // Reflect on a memory (with pic?)
 
 if (isset($_GET['door'])) {

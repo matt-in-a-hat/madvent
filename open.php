@@ -15,6 +15,7 @@ $messages = array(
   'You have such a pretty smile, I love it.',
   'I love that you like a challenge.',
   'I love your passion for food and cooking, and the yummies you create me.',
+  'Flambo is red, Ice king is blue, Marcy is cute, but not cuter than you.',
 );
 
 // IDEAS

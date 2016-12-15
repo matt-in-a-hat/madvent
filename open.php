@@ -24,6 +24,14 @@ $messages = array(
   'I love your eyes and how they smile at me.',
   'I love that we work well socially.',
   '<p>I love that we enjoy many similar things.</p><img width="640" src="https://i.ytimg.com/vi/X7HmltUWXgs/maxresdefault.jpg" />',
+  'I love that we can <a href="https://www.facebook.com/matthewlang/videos/10153564663851081/">laugh at ourselves.</a>',
+  '<p>I love that I\'ve liked you for 3 years.</p><img src="https://media1.giphy.com/media/koffL0oiVv9iE/200_s.gif" /><p>PS Happy 2.91667 years</p>',
+  'I love that we can\'t decide which day to celebrate.',
+  'I love that we share similar dislikes towards children.',
+  '<p>I love that there hasn\'t been too many puns recently :P</p><img src="https://scontent.fosl1-1.fna.fbcdn.net/v/t1.0-0/p526x296/12592599_1107944779270377_1020160247845530088_n.png?oh=cd5ea9d3ab5823cf58a9636bf21c8c8d&oe=58E81686" height="398" />',
+  '<p>I love that we love what Jake loves.</p><img src="https://media0.giphy.com/media/55B9OMISWipKE/200.gif#11" />',
+  '<p>I love how creative we can be.</p><img src="https://scontent.fosl1-1.fna.fbcdn.net/v/t1.0-9/1526427_10153118327416081_1174637260758112106_n.jpg?oh=8abcf6a28e78a47637c708e40277bf5a&oe=58AF0A9A" width="480" /><p style="font-size: 10px;">And how crude ;)</p>',
+  '<p>Most of all, I love you!</p><p>Merry Christmas Maddy.</p>',
 );
 
 // IDEAS

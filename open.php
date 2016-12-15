@@ -21,6 +21,9 @@ $messages = array(
   '<p>I love the things we get up to.</p><iframe width="560" height="315" src="https://www.youtube.com/embed/vdk9zW4k07M" frameborder="0" allowfullscreen></iframe><p>PS happy birthday <3</p>',
   'I love your sense of humour.',
   'I love your cute hands, and I love to hold them.',
+  'I love your eyes and how they smile at me.',
+  'I love that we work well socially.',
+  '<p>I love that we enjoy many similar things.</p><img width="640" src="https://i.ytimg.com/vi/X7HmltUWXgs/maxresdefault.jpg" />',
 );
 
 // IDEAS
